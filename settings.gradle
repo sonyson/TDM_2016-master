@@ -1,0 +1,1 @@
+include ':app', ':fragmentsimplemodule', ':myapplication', ':myapplication2', ':myapplication3', ':myapplication4', ':myapplication5'
